@@ -8,7 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-This is the NOT THE FROOOOOOOONT PLEEEEASE DAFDSF JKLDAJSFÑLDKJFÑLDfront page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm Ariadna, a current student of "Bachelors in Computer Science and Technology" at Tecnológico de Monterrey Campus Estado de México with an academic excellence scholarship, this is my 6th semester (graduating in July 2023).
+
+I like a little bit of everything: from competitive programming and robotics to medicine and space:
+
+✅I've participated in some programming contests such as ICPC, Facebook Hacker Cup, and Top Tec Programmer; currently I'm preparing for the Regional phase of ICPC (language: C++). Also, I'm helping to rebuild the competitive programming club at my school so new generations will have better preparation for contests.
+
+✅I'm a member of Quantum Robotics, a multidisciplinary team from 4 different schools, dedicated to design one of the next-generation Rovers, searching to compete in the URC 2022. My area is control, in charge of programming the tasks that the robot must do. In general, the languages used are C++ and Python and the Operating System is Ubuntu (along with ROS).
+
+Interests
+======
+- Artificial Intelligence.
+- Robotics.
+- Algorithms and data structures.
+- Medicine.
+- Research.
+- Teaching.
+
+Technologies
+======
+HTML | CSS | Bootstrap | Tableau | SQL | MySQL | GitHub | Linux | Unity | ROS.
+
+
+
+<!--This is the NOT THE FROOOOOOOONT PLEEEEASE DAFDSF JKLDAJSFÑLDKJFÑLDfront page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +70,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
